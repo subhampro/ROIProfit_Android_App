@@ -1,0 +1,6 @@
+com.subham.roiprofit.test.app-core-1.5.0-0 C:\Users\prosu\.gradle\caches\8.9\transforms\837d6c8ff48dcc76daa5e76471aa74fe\transformed\core-1.5.0\res
+com.subham.roiprofit.test.app-annotation-experimental-1.4.0-1 C:\Users\prosu\.gradle\caches\8.9\transforms\dfbfda25d0b95eba31f7a6d989ccd3fd\transformed\annotation-experimental-1.4.0\res
+com.subham.roiprofit.test.app-androidTest-2 F:\GitRepo\ROIProfit_Android_App\Roiprofit\app\build\generated\res\resValues\androidTest\debug
+com.subham.roiprofit.test.app-mergeDebugAndroidTestResources-3 F:\GitRepo\ROIProfit_Android_App\Roiprofit\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.subham.roiprofit.test.app-mergeDebugAndroidTestResources-4 F:\GitRepo\ROIProfit_Android_App\Roiprofit\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.subham.roiprofit.test.app-debugAndroidTest-5 F:\GitRepo\ROIProfit_Android_App\Roiprofit\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
