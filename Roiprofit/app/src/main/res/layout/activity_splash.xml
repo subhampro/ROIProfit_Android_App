@@ -21,11 +21,11 @@
 
         android:layout_width="match_parent"
 
-        android:layout_height="300dp"
+        android:layout_height="350dp"
 
-        android:layout_marginTop="150dp"
+        android:layout_marginTop="250dp"
 
-        android:padding="50dp"
+        android:padding="35dp"
 
         android:scaleType="centerCrop"
 
@@ -34,35 +34,35 @@
         />
 
 
-    <com.google.android.material.progressindicator.CircularProgressIndicator
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        app:indicatorSize="48dp"
-        app:trackThickness="4dp"
-        app:indicatorColor="@color/white"
-        android:layout_marginTop="100dp"/>
+<!--    <com.google.android.material.progressindicator.CircularProgressIndicator-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="center_horizontal"-->
+<!--        app:indicatorSize="48dp"-->
+<!--        app:trackThickness="4dp"-->
+<!--        app:indicatorColor="@color/white"-->
+<!--        android:layout_marginTop="100dp"/>-->
 
-    <ProgressBar
+<!--    <ProgressBar-->
 
-        android:layout_width="220dp"
+<!--        android:layout_width="220dp"-->
 
-        android:layout_height="10dp"
+<!--        android:layout_height="10dp"-->
 
-        android:layout_gravity="center_horizontal"
+<!--        android:layout_gravity="center_horizontal"-->
 
-        style="?android:attr/progressBarStyleHorizontal"
+<!--        style="?android:attr/progressBarStyleHorizontal"-->
 
-        android:max="100"
+<!--        android:max="100"-->
 
-        android:indeterminate="true"
+<!--        android:indeterminate="true"-->
 
-        android:progress="0"
+<!--        android:progress="0"-->
 
-        android:layout_marginTop="100dp"
+<!--        android:layout_marginTop="100dp"-->
 
 
-        />
+<!--        />-->
 
 
 
